@@ -1,4 +1,4 @@
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinclaylane) [![image](https://img.shields.io/mastodon/follow/109354235869531737?domain=https%3A%2F%2Fmastodon.social&logo=mastodon&style=for-the-badge)](https://mastodon.social/@JustinLane) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/justin_lane)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinclaylane) [![image](https://img.shields.io/mastodon/follow/109354235869531737?domain=https%3A%2F%2Fmastodon.social&logo=mastodon&style=for-the-badge)](https://mastodon.social/@JustinLane)
 
 ### Hi there 👋
 
